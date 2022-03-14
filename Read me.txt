@@ -1,0 +1,5 @@
+#Profitness E business Platform
+Step-1: Unzip the file move this folter to xampp>..htdoct> create your forder and paste
+Step-2: open PhpMyAdmin and go to import option then choose file from db folder file name
+       profitness.sql
+Step-3: Run the file (localhost/your folder name what you created)
